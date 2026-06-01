@@ -47,7 +47,7 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/LNwU7Dtu4dPHxFcRqKQcHp', // 310
       'https://chat.whatsapp.com/D4ixpXer8cL7yfHls2pgXp', // 312
       'https://chat.whatsapp.com/JANCrwLK6CA08Vp1Iddr8V', // 314
-      'https://chat.whatsapp.com/L6pNfmEc8V3HAEZW1ZYwZ8', // 321
+      'https://chat.whatsapp.com/L6pNfmEc8V3HAEZW1ZYwZ8', // 304
     ],
   };
   // ─────────────────────────────────────────────────────────────
