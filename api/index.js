@@ -33,7 +33,6 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/FdNeYIbEirA69JCoHZ7J4E', // 307
       'https://chat.whatsapp.com/CS0vZLnLBCAByRlRepA41v', // 317
       'https://chat.whatsapp.com/H4VZeifNrfJDaIsrn2UaTx', // 318
-      'https://chat.whatsapp.com/IjnzNqXpL0X12JfRlWTfsS', // 320
     ],
     2: [
       'https://chat.whatsapp.com/BKbjoTqqCq88ayAZ3GDKYd', // 300
